@@ -1,3 +1,2 @@
-123o
 книга по git:
-https://git-scm.com/book/ru/v2/
+https://git-scm.com/book/ru/v2/123123
